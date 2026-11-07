@@ -1,0 +1,28 @@
+# ---- .NET ----
+bin/
+obj/
+*.user
+*.suo
+
+# ---- IDE ----
+.vs/
+.idea/
+.vscode/
+*.csproj.user
+*.sln.DotSettings.user
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+
+# ---- Test ----
+TestResults/
+*.trx
+coverage/
+
+# ---- Unity ----
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
