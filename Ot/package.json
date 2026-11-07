@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "displayName": "O/T",
   "description": "Framework for LLM Agents",
-  "unity": "2022.3",
+  "unity": "6000.3",
   "author": {
     "name": "ok23902"
   },
