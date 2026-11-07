@@ -21,7 +21,7 @@ World = fields + processing.
 
 In `Packages/manifest.json`:
 
-    "com.ok23902.ot": "https://github.com/ok23902/ot.git?path=Ot#v0.1.0"
+    "com.ok23902.ot": "https://github.com/ok23902/ot.git?path=Ot#v0.1.2"
 
 ## License
 
