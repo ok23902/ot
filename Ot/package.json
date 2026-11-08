@@ -1,6 +1,6 @@
 {
   "name": "com.ok23902.ot",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "displayName": "O/T",
   "description": "Framework for LLM Agents",
   "unity": "6000.3",
